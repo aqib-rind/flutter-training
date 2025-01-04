@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "377097207344",
+    "project_id": "profondo-ai",
+    "storage_bucket": "profondo-ai.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:377097207344:android:a7c3d3c281a6285092b7f5",
+        "android_client_info": {
+          "package_name": "com.example.profondo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCj8riuqPo7VEBOZvcMua5skmxFwACSQm4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
